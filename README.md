@@ -1,6 +1,6 @@
 # 📊 Tableau Projects
 
-A collection of datasets used to build data-visualization dashboards in [Tableau Public](https://public.tableau.com/app/profile/kamil.molasy). Each dataset in this repo backs a published Tableau dashboard — open the spreadsheet to inspect the raw data, or follow the link to see the finished visualization.
+A collection of datasets used to build data-visualization dashboards in [Tableau Public](https://public.tableau.com/app/profile/kamil.molasy). The two datasets with a link below back published Tableau dashboards; the NCAA women's basketball files are raw data only (no published dashboard is linked here). Open a spreadsheet to inspect the data, or follow a link to see the finished visualization.
 
 ## 📌 What's Inside
 
@@ -20,9 +20,9 @@ cd tableau_project
 
 - Open any `.xlsx` file directly in Excel/Google Sheets to explore the raw data.
 - Or open it as a data source in [Tableau Desktop / Tableau Public](https://www.tableau.com/products/public) to rebuild or extend the dashboards.
-- Finished dashboards for the Coffee and EV datasets are linked above on Tableau Public.
+- Finished dashboards for the Coffee and EV datasets are linked above on Tableau Public; the workbooks themselves are on Tableau Public, not in this repository.
 
 ## 🛠️ Requirements
 
-- Tableau Desktop or Tableau Public to open/build `.twb`/`.twbx` workbooks from these sources.
+- Tableau Desktop or Tableau Public to build dashboards from these sources (this repository holds the data, not `.twb`/`.twbx` workbooks).
 - Any spreadsheet app to view the `.xlsx` files directly.
